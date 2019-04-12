@@ -1,3 +1,7 @@
+#The following program uses a mask to generate/operate on binary numbers
+#In this program we take two numbers from the user
+#We turn the numbers into binary using a mask
+# And we perform AND, OR; xOR, NOT on the numbers printing the results
 .text
 .globl main
 main:
